@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=OBERFLAECHE
+comment1.params=Main\ Feld\ x\ y
+comment1.target=OBERFLAECHE(MAIN,\ FELD,\ int,\ int)
+comment2.params=we
+comment2.target=void\ windowClosing(java.awt.event.WindowEvent)
+comment3.params=
+comment3.target=java.awt.Frame\ FensterGeben()
+numComments=4

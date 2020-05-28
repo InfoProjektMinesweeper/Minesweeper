@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=ZEIT
+comment1.params=Main\ dauer
+comment1.target=ZEIT(MAIN,\ int)
+comment2.params=evt
+comment2.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment3.params=
+comment3.target=void\ Starten()
+comment4.params=
+comment4.target=void\ Anhalten()
+numComments=5

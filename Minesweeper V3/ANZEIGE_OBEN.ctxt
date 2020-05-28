@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=ANZEIGE_OBEN
+comment1.params=Oberflaeche\ Main
+comment1.target=ANZEIGE_OBEN(OBERFLAECHE,\ MAIN)
+comment2.params=
+comment2.target=int\ getLabelHeight()
+comment3.params=
+comment3.target=int\ getFontSize()
+comment4.params=
+comment4.target=void\ ZeitUpdaten()
+numComments=5
